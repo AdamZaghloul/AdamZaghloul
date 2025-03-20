@@ -1,6 +1,6 @@
 ## Hi there, I'm Adam Zaghloul 👋
 
-- VP Strategy @ [NTG Clarity](https://www.linkedin.com/company/ntg-clarity/)<a href="https://www.linkedin.com/company/ntg-clarity/" target="_blank">Hello, world!</a>
+- VP Strategy @ <a href="https://www.linkedin.com/company/ntg-clarity/" target="_blank">Hello, world!</a>
 - 🔭 I’m currently working on a [time tracker app](https://github.com/AdamZaghloul/time-tracker) to boost productivity.
 - 🌱 I’m currently learning Go and JavaScript.
 - 👯 I’m looking to collaborate on tools to streamline investor relations and general corporate finance.
