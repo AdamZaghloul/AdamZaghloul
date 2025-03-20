@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Adam Zaghloul 👋
+
+- VP Strategy @ [NTG Clarity](https://www.linkedin.com/company/ntg-clarity/)
+- 🔭 I’m currently working on a [time tracker app](https://github.com/AdamZaghloul/time-tracker) to boost productivity.
+- 🌱 I’m currently learning Go and JavaScript.
+- 👯 I’m looking to collaborate on tools to streamline investor relations and general corporate finance.
+- 📫 Feel free to reach out on by [Email](mailto:adam@ntgclarity.com) or [LinkedIn](https://www.linkedin.com/in/adam-zaghloul/)
 
 <!--
 **AdamZaghloul/AdamZaghloul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
