@@ -1,7 +1,7 @@
 ## Hi there, I'm Adam Zaghloul 👋
 
 - VP Strategy @ [NTG Clarity](https://www.linkedin.com/company/ntg-clarity/)
-- 🔭 I’m currently working on a [time tracker app](https://github.com/AdamZaghloul/time-tracker) to boost productivity.
+- 🔭 I’m currently working on improving my HTML and CSS skills after building my [time tracker app](https://github.com/AdamZaghloul/time-tracker) exposed gaps in my knowledge.
 - 🌱 I’m currently learning Go and JavaScript.
 - 👯 I’m looking to collaborate on tools to streamline investor relations and general corporate finance.
 - 📫 Feel free to reach out on by [Email](mailto:adam@ntgclarity.com) or [LinkedIn](https://www.linkedin.com/in/adam-zaghloul/)
